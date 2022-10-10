@@ -1,0 +1,14 @@
+Link para download do VSCODE https://code.visualstudio.com/
+Extensão Python para VS Code https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
+O VS Code é um dos editores de código mais utilizados no mundo.
+Conheça melhor essa ferramenta e entenda o motivo de sua popularidade.
+
+Agora estou iniciando em Python onde estou gostando muito das aulas,
+do professor Guilherme Arthur de Carvalho, que tem explicações excelente
+sobre o assunto abordado.
+
+#DIO
+#rumoaodev
+#adorandocadaaula
+#Ótimosprofessores
